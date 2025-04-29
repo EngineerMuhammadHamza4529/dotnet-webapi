@@ -16,6 +16,8 @@ A robust and extensible ASP.NET Core Web API boilerplate designed for building m
 - RESTful API conventions
 - Environment-based configuration
 
-## 📁 Project Structure
+**## 📁 Project Structure**
+
+/PulseDotNetWebAPI │ ├── Controllers # API endpoints ├── Models # Domain models ├── Data # EF Core DbContext and migrations ├── Services # Business logic ├── DTOs # Data Transfer Objects ├── Middleware # Custom middlewares └── Program.cs # Entry point and configuration.
 
 
